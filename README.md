@@ -1,0 +1,2 @@
+# paritalanews
+GitHub Pages
